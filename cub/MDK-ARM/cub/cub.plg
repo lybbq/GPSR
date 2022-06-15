@@ -1,0 +1,1457 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+G:\cub2\MDK-ARM\cub.uvproj
+Project File Date:  09/02/2021
+
+<h2>Output:</h2>
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+"..\Src\Motor.c" - 0 Errors, 5 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(228): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(229): warning:  #177-D: variable "tx" was declared but never referenced
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\send.c(139): error:  #136: struct "Mon" has no field "Encode_Plus"
+..\Src\send.c(140): error:  #136: struct "Mon" has no field "Encode_Plus"
+..\Src\send.c(141): error:  #136: struct "Mon" has no field "Encode_Plus"
+..\Src\send.c(142): error:  #136: struct "Mon" has no field "Encode_Plus"
+..\Src\send.c(143): error:  #136: struct "Mon" has no field "Encode_Plus"
+..\Src\send.c(144): error:  #136: struct "Mon" has no field "Encode_Plus"
+..\Src\send.c(181): error:  #136: struct "Mon" has no field "Max_Real_Speed"
+..\Src\send.c(182): error:  #136: struct "Mon" has no field "Max_Real_Speed"
+..\Src\send.c(183): error:  #136: struct "Mon" has no field "Max_Real_Speed"
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(43): error:  #136: struct "Mon" has no field "Max_Real_Speed"
+..\Src\encode.c(46): warning:  #1-D: last line of file ends without a newline
+compiling model.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\model.c(37): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(228): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(229): warning:  #177-D: variable "tx" was declared but never referenced
+compiling PID.c...
+..\Src\PID.c(10): warning:  #177-D: variable "lasterror" was declared but never referenced
+"cub\cub.axf" - 10 Errors, 30 Warning(s).
+Target not created
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(228): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(229): warning:  #177-D: variable "tx" was declared but never referenced
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(46): warning:  #1-D: last line of file ends without a newline
+compiling model.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\model.c(37): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(228): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(229): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11848 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 36 Warning(s).
+Build target 'cub'
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11848 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 12 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(231): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(232): warning:  #177-D: variable "tx" was declared but never referenced
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(46): warning:  #1-D: last line of file ends without a newline
+compiling model.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\model.c(37): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(231): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(232): warning:  #177-D: variable "tx" was declared but never referenced
+compiling PID.c...
+..\Src\PID.c(10): warning:  #177-D: variable "lasterror" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11844 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 37 Warning(s).
+compiling model.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\model.c(43): warning:  #1-D: last line of file ends without a newline
+"..\Src\model.c" - 0 Errors, 3 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(46): warning:  #1-D: last line of file ends without a newline
+compiling model.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\model.c(47): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+compiling PID.c...
+..\Src\PID.c(10): warning:  #177-D: variable "lasterror" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=12248 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 37 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+compiling PID.c...
+..\Src\PID.c(10): warning:  #177-D: variable "lasterror" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=12268 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 20 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+compiling PID.c...
+..\Src\PID.c(10): warning:  #177-D: variable "lasterror" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=12268 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 20 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(244): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(245): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=12276 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(46): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11600 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 24 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11608 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling usart.c...
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling usart.c...
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11636 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 23 Warning(s).
+Build target 'cub'
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11636 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 11 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11628 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11628 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11608 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11608 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11608 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11608 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11628 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11628 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 12 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 11 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 11 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 11 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11628 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 11 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 11 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11628 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 16 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling usart.c...
+compiling usart.c...
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11628 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 11 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling usart.c...
+compiling usart.c...
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11656 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11676 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling usart.c...
+compiling usart.c...
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11664 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Build target 'cub'
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11644 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(253): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(254): warning:  #177-D: variable "tx" was declared but never referenced
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(253): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(254): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=11856 RO-data=456 RW-data=264 ZI-data=1760  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 23 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(253): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(254): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(253): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(254): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10084 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling usart.c...
+compiling usart.c...
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10084 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10084 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 7 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=9844 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(250): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(251): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10892 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(254): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(255): warning:  #177-D: variable "tx" was declared but never referenced
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(46): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(254): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(255): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10876 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 24 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(255): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(256): warning:  #177-D: variable "tx" was declared but never referenced
+compiling Motor.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\Motor.c(25): warning:  #1-D: last line of file ends without a newline
+compiling send.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(52): warning:  #1-D: last line of file ends without a newline
+compiling model.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\model.c(47): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(255): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(256): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10904 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 36 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10960 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(248): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(249): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10960 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(52): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10944 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 24 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(52): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10896 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 12 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(52): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10340 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 12 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(52): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10864 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 12 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling encode.c...
+..\Src\Motor.h(46): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.h(23): warning:  #1-D: last line of file ends without a newline
+..\Src\model.h(37): warning:  #1-D: last line of file ends without a newline
+..\Src\send.h(25): warning:  #1-D: last line of file ends without a newline
+..\Src\encode.c(52): warning:  #1-D: last line of file ends without a newline
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10904 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 12 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10904 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10904 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Build target 'cub'
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+compiling main.c...
+../Src/Motor.h(46): warning:  #1-D: last line of file ends without a newline
+../Src/encode.h(23): warning:  #1-D: last line of file ends without a newline
+../Src/model.h(37): warning:  #1-D: last line of file ends without a newline
+../Src/send.h(25): warning:  #1-D: last line of file ends without a newline
+../Src/main.c(225): warning:  #177-D: variable "value" was declared but never referenced
+../Src/main.c(226): warning:  #177-D: variable "tx" was declared but never referenced
+linking...
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\main.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\gpio.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\dma.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\tim.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\usart.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_it.o ignored.
+cub\cub.axf: Warning: L6304W: Duplicate input file cub\stm32f4xx_hal_msp.o ignored.
+Program Size: Code=10904 RO-data=456 RW-data=264 ZI-data=1736  
+FromELF: creating hex file...
+"cub\cub.axf" - 0 Errors, 19 Warning(s).
+Load "cub\\cub.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
